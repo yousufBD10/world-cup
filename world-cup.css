@@ -3,6 +3,12 @@
 body{
     font-family: 'Poppins', sans-serif;
     font-weight: bolder;
+  
+}
+.anchor-a:hover{
+    background-color: #db2a2a;
+    box-shadow: 1px 1px 7px;
+    transition: .3s;
 }
 
 main{
@@ -547,6 +553,12 @@ footer{
                                                   
 
 /* website 2 */
+.anchor-a:hover{
+    background-color: #db2a2a;
+    box-shadow: 1px 1px 7px;
+    transition: .3s;
+}
+
 .upcomin{
     background-color: #DD0000;
 }  
@@ -603,6 +615,12 @@ footer{
       color: #ffffff;  
   }
   /* website3 */
+  .anchor-a:hover{
+    background-color: #db2a2a;
+    box-shadow: 1px 1px 7px;
+    transition: .3s;
+}
+
   .flagpic{
     width: 70px;
     height: 50px;
